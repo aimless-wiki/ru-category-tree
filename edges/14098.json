@@ -1,0 +1,1 @@
+{"name": "Браузеры", "id": 14098, "predecessors": [{"name": "Всемирная_паутина", "id": 60925}, {"name": "Интернет", "id": 8482}], "successors": [{"name": "Mozilla", "id": 34109}, {"name": "Свободные_браузеры", "id": 1143869}, {"name": "Internet_Explorer", "id": 2754093}, {"name": "Расширения_Firefox", "id": 121819}]}

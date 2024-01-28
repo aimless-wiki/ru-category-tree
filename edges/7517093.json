@@ -1,0 +1,1 @@
+{"name": "Операционные_системы_ARM", "id": 7517093, "predecessors": [{"name": "ARM", "id": 2647967}, {"name": "Операционные_системы", "id": 9029}], "successors": [{"name": "Linux", "id": 69111}, {"name": "Android", "id": 1281441}, {"name": "IOS", "id": 3253666}, {"name": "Устройства_на_Windows_Phone", "id": 4003232}]}

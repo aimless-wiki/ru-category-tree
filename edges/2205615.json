@@ -1,0 +1,1 @@
+{"name": "Программное_обеспечение_для_Linux", "id": 2205615, "predecessors": [{"name": "Linux", "id": 69111}, {"name": "Операционные_системы", "id": 9029}, {"name": "Unix", "id": 603381}], "successors": [{"name": "X_Window_System", "id": 145406}, {"name": "Игры_для_Linux", "id": 2520297}, {"name": "Программное_обеспечение_для_Android", "id": 3014417}]}
