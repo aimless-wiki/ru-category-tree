@@ -1,1 +1,1 @@
-{"name": "User_ru-old", "id": 748991, "predecessors": [{"name": "Всё", "id": 16350}], "successors": [{"name": "User_ru-old-2", "id": 748994}, {"name": "User_ru-old-1", "id": 750731}, {"name": "User_ru-old-3", "id": 776910}]}
+{"name": "User_ru-old", "id": 748991, "predecessors": [{"name": "User_ru", "id": 47576}], "successors": [{"name": "User_ru-old-2", "id": 748994}, {"name": "User_ru-old-1", "id": 750731}, {"name": "User_ru-old-3", "id": 776910}]}
