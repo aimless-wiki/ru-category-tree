@@ -1,1 +1,1 @@
-{"name": "Фильмы_20th_Century_Studios", "id": 9175981, "predecessors": [{"name": "Фильмы_Walt_Disney_Pictures", "id": 7418560}, {"name": "Фильмы_США", "id": 62269}, {"name": "Кинокомпании_США", "id": 140658}], "successors": [{"name": "Фильмы_Fox_Searchlight_Pictures", "id": 5449758}]}
+{"name": "Фильмы_20th_Century_Studios", "id": 9175981, "predecessors": [{"name": "Фильмы_Walt_Disney_Pictures", "id": 7418560}, {"name": "Фильмы_США", "id": 62269}, {"name": "Анимация", "id": 9120}], "successors": [{"name": "Фильмы_Fox_Searchlight_Pictures", "id": 5449758}]}

@@ -1,1 +1,1 @@
-{"name": "Расширения_Firefox", "id": 121819, "predecessors": [{"name": "Браузеры", "id": 14098}], "successors": []}
+{"name": "Расширения_Firefox", "id": 121819, "predecessors": [{"name": "Mozilla", "id": 34109}, {"name": "Браузеры", "id": 14098}], "successors": []}

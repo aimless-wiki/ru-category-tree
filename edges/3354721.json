@@ -1,1 +1,1 @@
-{"name": "Тафрина", "id": 3354721, "predecessors": [{"name": "Болезни_растений", "id": 258007}, {"name": "Биология", "id": 8226}], "successors": []}
+{"name": "Тафрина", "id": 3354721, "predecessors": [{"name": "Taphrinomycotina", "id": 3480379}, {"name": "Болезни_растений", "id": 258007}], "successors": []}
