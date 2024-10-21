@@ -1,1 +1,1 @@
-{"name": "Слесари", "id": 800481, "predecessors": [{"name": "Всё", "id": 16350}], "successors": []}
+{"name": "Слесари", "id": 800481, "predecessors": [{"name": "Всё", "id": 16350}], "successors": [{"name": "Слесарные_инструменты", "id": 368303}]}
