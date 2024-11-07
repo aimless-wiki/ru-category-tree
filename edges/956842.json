@@ -1,1 +1,1 @@
-{"name": "Приключенческие_игры", "id": 956842, "predecessors": [{"name": "Производство", "id": 56343}], "successors": [{"name": "Игры_о_Нэнси_Дрю", "id": 2747320}, {"name": "Interactive_fiction", "id": 3432674}, {"name": "Квесты_Point-and-click", "id": 4821874}]}
+{"name": "Приключенческие_игры", "id": 956842, "predecessors": [{"name": "Производство", "id": 56343}], "successors": [{"name": "Игры_о_Нэнси_Дрю", "id": 2747320}, {"name": "Interactive_fiction", "id": 3432674}, {"name": "Квесты_Point-and-click", "id": 4821874}, {"name": "Симуляторы_ходьбы", "id": 10591984}]}

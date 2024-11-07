@@ -1,1 +1,1 @@
-{"name": "Ортопеды", "id": 97914, "predecessors": [{"name": "Ортопедия", "id": 66443}, {"name": "Всё", "id": 16350}], "successors": []}
+{"name": "Ортопеды", "id": 97914, "predecessors": [{"name": "Ортопедия", "id": 66443}, {"name": "Медицина", "id": 8104}], "successors": []}
