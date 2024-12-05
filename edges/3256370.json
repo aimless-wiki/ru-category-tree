@@ -1,1 +1,1 @@
-{"name": "Станции_Tokyo_Metro", "id": 3256370, "predecessors": [{"name": "Транспорт_Токио", "id": 2075285}, {"name": "Экономика", "id": 8119}], "successors": []}
+{"name": "Станции_Tokyo_Metro", "id": 3256370, "predecessors": [{"name": "Транспорт_Токио", "id": 2075285}, {"name": "Всё", "id": 16350}], "successors": []}

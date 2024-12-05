@@ -1,1 +1,1 @@
-{"name": "Sunrise", "id": 2461380, "predecessors": [{"name": "Анимация", "id": 9120}, {"name": "Компании_Японии", "id": 45597}], "successors": [{"name": "Gundam", "id": 595279}]}
+{"name": "Sunrise", "id": 2461380, "predecessors": [{"name": "Компании_Японии", "id": 45597}, {"name": "Анимационные_студии", "id": 36440}], "successors": [{"name": "Gundam", "id": 595279}]}
